@@ -1,0 +1,11 @@
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\bin\Debug\Final_Prog2.exe.config
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\bin\Debug\Final_Prog2.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\bin\Debug\Final_Prog2.pdb
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.csproj.AssemblyReference.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.csproj.SuggestedBindingRedirects.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.FrmAlta.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.Properties.Resources.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.csproj.GenerateResource.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.csproj.CoreCompileInputs.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\Final_Prog2\obj\Debug\Final_Prog2.pdb

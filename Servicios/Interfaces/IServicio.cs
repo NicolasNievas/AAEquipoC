@@ -1,0 +1,15 @@
+﻿using Final_Prog2.Dominio;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Final_Prog2.Servicios.Interfaces
+{
+    public interface IServicio
+    {
+        List<Persona> ObtenerPersona();
+        bool ConfirmarEquipo(Equipo equipo);
+    }
+}
